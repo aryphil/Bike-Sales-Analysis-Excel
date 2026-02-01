@@ -1,6 +1,6 @@
 # Bike-Sales-Analysis-Excel Dashboard
 ## Project Overview
-This project analyzes bike sales data to identify customer trends, purchasing behaviour, and revenue using Microsft Excel.
+This project analyzes bike sales data to identify customer trends, purchasing behaviour, and revenue using Microsoft Excel.
 
 ## Tools Used
 Microsoft Excel
