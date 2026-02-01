@@ -20,4 +20,4 @@ Excel_Dashboard_view.png' -  Dashboard screenshot
 'Dashboard_Presentation.pdf' - Dashboard export
 
 ## Preview
-![Dashboard view](Dashboard_view.png)
+![dashboard view](dashboard view.png)
