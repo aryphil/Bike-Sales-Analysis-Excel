@@ -20,4 +20,4 @@ Excel_Dashboard_view.png -  Dashboard screenshot
 Bike Sales Analysis.pdf - Dashboard export
 
 ## Preview
-![dashboard view](dashboardview.png)
+![dashboard view](dashboard_view.png)
